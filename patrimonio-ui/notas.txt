@@ -1,0 +1,7 @@
+# Instalar dependências
+(no diretório do projeto executar)
+npm install
+
+# Executar o servidor para testes
+(instalar o @angular\cli)
+ng serve
